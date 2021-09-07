@@ -1,0 +1,21 @@
+/*
+* Website Name: Hyburtech
+* Website Author: Saugat Rimal
+* Author URI: https://saugatrimal.com.np/
+
+* Twitter: https://twitter.com/saugatrimal60
+* Facebook: https://web.facebook.com/saugatrimal.pro/
+*/
+
+@import "functions";
+@import "variables";
+@import "mixins";
+
+$primary: #385F96;
+$black: #000000;
+$white: #ffffff;
+$font-family: 'Roboto', sans-serif;
+
+@import 'site-navbar';
+@import 'site-blocks';
+@import 'site-elements';
